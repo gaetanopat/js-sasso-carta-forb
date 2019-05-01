@@ -1,0 +1,16 @@
+body{
+  box-sizing: border-box;
+  padding:0;
+  background-color: #cbd0d8;
+  text-align: center;
+}
+#rules, #rules2{
+  font-size:20px;
+}
+#rules{
+  font-weight: bold;
+}
+#winner{
+  color: red;
+  font-weight: bold;
+}
